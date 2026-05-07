@@ -1,0 +1,802 @@
+==============================================================
+SITE: LALI — Interactive Floral Atelier
+==============================================================
+
+ROLE / CONTEXT
+--------------
+Role: Creative Director, UX/UI Designer, and 3D Web Product Designer for a premium floral atelier.
+
+Context:
+LALI is not a basic flower shop. It is a modern floral atelier where bouquets are treated as personal compositions, not simple products. The website should feel elegant, emotional, interactive, and memorable.
+
+The main idea of LALI is that flowers are personal. A client can choose ready-made stylish bouquets, subscribe to regular flower deliveries, or build a custom bouquet in a 3D interactive space.
+
+Target client:
+- People who want aesthetic, stylish bouquets
+- Young professionals
+- Gift buyers
+- Romantic occasions
+- People who love design and personalization
+- Clients who want flowers to feel special, not generic
+
+Brand feeling:
+Premium, romantic, modern, soft, artistic, and interactive.
+
+This website must NOT feel like a basic ecommerce flower shop.
+It should feel like a digital floral atelier with a unique 3D experience.
+
+
+==============================================================
+BRAND IDENTITY
+==============================================================
+
+Brand name:
+LALI
+
+Tagline:
+“Arrange your own story.”
+
+Brand concept:
+LALI is a modern floral atelier that lets clients express emotion through flowers. The site combines curated bouquets, floral subscriptions, and a custom 3D bouquet builder.
+
+Brand voice:
+Soft, elegant, polished, and emotional, but not overly dramatic.
+
+Voice rules:
+- Use simple, beautiful wording.
+- Avoid generic ecommerce language.
+- Do not make it feel like a discount store.
+- Use words like:
+  “composition”
+  “arrangement”
+  “seasonal stems”
+  “crafted”
+  “atelier”
+  “signature bouquet”
+  “custom bouquet”
+  “floral ritual”
+
+Example phrases:
+- “Flowers, arranged around your feeling.”
+- “Build a bouquet that feels personal.”
+- “A floral ritual delivered to your door.”
+- “Choose the mood. We compose the moment.”
+- “Not just flowers — a composition.”
+
+
+==============================================================
+PURPOSE
+==============================================================
+
+The website should allow users to:
+
+1. Browse ready-made stylish bouquets
+2. Choose bouquets by occasion or mood
+3. Buy a flower subscription for 3, 6, or 12 months
+4. Build a custom bouquet on a separate interactive 3D page
+5. Place each flower freely inside the bouquet
+6. Rotate the bouquet 360 degrees
+7. See the total price update live
+8. Request or place an order for the final bouquet
+
+
+==============================================================
+DESIGN DIRECTION
+==============================================================
+
+Aesthetic:
+Romantic Editorial Luxury
+
+The design should feel:
+- elegant
+- soft
+- modern
+- visually rich
+- premium
+- interactive
+- not boring
+- not generic
+
+The previous site felt too plain and boring, so this new site must have a stronger visual identity and more unusual interactive details.
+
+Overall mood:
+A premium floral boutique mixed with an editorial fashion website and a modern interactive product configurator.
+
+Design references:
+- Editorial fashion layout
+- Luxury boutique websites
+- Modern product configurators
+- Soft but bold visual storytelling
+
+Avoid:
+- basic Shopify-style layouts
+- overused pink and green flower shop colors
+- childish floral patterns
+- too much clutter
+- cheap ecommerce look
+
+
+==============================================================
+COLOR SYSTEM
+==============================================================
+
+Restricted palette:
+
+Base background:
+- Milky cream: #F7F3EF
+
+Primary color:
+- Deep burgundy: #5A0F1C
+
+Accent color:
+- Rich burgundy: #7A1E2C
+
+Soft secondary:
+- Dusty cream blush: #E8D8D2
+
+Text:
+- Deep charcoal: #1A1A1A
+
+Light text:
+- Warm ivory: #FFF8F2
+
+Usage:
+- Main background should be milky cream.
+- Burgundy should be used for logo, CTA buttons, section accents, borders, hover states, and important text.
+- Use soft secondary tones for cards, subscription blocks, and background panels.
+- Keep the site light overall, but use burgundy in a bold and memorable way.
+
+
+==============================================================
+TYPOGRAPHY
+==============================================================
+
+Logo:
+- “LALI”
+- Elegant serif type
+- Letter-spaced
+- Minimal and premium
+
+Headline font:
+- Playfair Display
+- Cormorant Garamond
+- Bodoni Moda
+
+Body font:
+- Inter
+- Lato
+- Light weight 300 or 400
+
+Typography style:
+- Large editorial headlines
+- Thin elegant body text
+- Generous line spacing
+- Beautiful contrast between large serif titles and clean sans-serif body
+
+Logo style:
+Use either:
+- LALI
+or
+- Lali
+
+Preferred:
+LALI in uppercase with wide letter spacing.
+
+
+==============================================================
+LAYOUT / UX PRINCIPLES
+==============================================================
+
+The site must be easy to use.
+
+Main navigation:
+- Home
+- Bouquets
+- Subscription
+- Build Your Bouquet
+- Occasions
+- About
+- Contact
+
+UX rules:
+- Clear buttons
+- Clean sections
+- No confusing layout
+- Strong visual hierarchy
+- Important features should be easy to find
+- The 3D bouquet builder should have its own separate page
+
+Spacing:
+- Generous white space
+- Section padding around 100–120px
+- Max width around 1440px
+- Cards should feel airy and premium
+
+Corners:
+- Soft but not childish
+- Border radius: 12px to 20px
+
+Borders:
+- Thin burgundy or soft blush borders
+
+Shadows:
+- Soft elegant shadows
+- Avoid heavy black shadows
+
+
+==============================================================
+PAGE STRUCTURE
+==============================================================
+
+PAGE 1: HOME
+--------------------------------------------------------------
+
+1. Hero Section
+
+Goal:
+Immediately show that LALI is premium, floral, and interactive.
+
+Layout:
+- Split-screen or editorial asymmetrical layout
+- Left side: text
+- Right side: large floral image or 3D bouquet preview
+
+Headline:
+“Arrange your own story.”
+
+Subheadline:
+“Curated bouquets, floral subscriptions, and a 3D bouquet builder made for personal moments.”
+
+CTA buttons:
+Primary:
+“Build Your Bouquet”
+
+Secondary:
+“Shop Bouquets”
+
+Visual:
+- Elegant bouquet in burgundy/cream tones
+- Soft shadows
+- Floral object floating or slightly layered
+- Optional 3D preview element
+
+Animation:
+- Hero title fades in
+- Bouquet image gently floats
+- CTA appears with soft movement
+
+
+2. Featured Bouquets
+
+Goal:
+Show ready-made stylish bouquets for people who want quick options.
+
+Section title:
+“Signature Bouquets”
+
+Description:
+“Ready-made arrangements designed for every kind of moment.”
+
+Bouquet cards:
+- Image
+- Bouquet name
+- Short mood description
+- Price
+- Button: “View Bouquet”
+
+Example bouquets:
+- The Lali Classic
+- Burgundy Muse
+- Soft Ceremony
+- Morning Atelier
+- Velvet Garden
+- Ivory Bloom
+
+Card style:
+- Cream or soft blush cards
+- Burgundy text accents
+- Soft hover scale
+- Quick view option
+
+
+3. Occasions Section
+
+Goal:
+Help users choose flowers easily.
+
+Title:
+“Choose by Occasion”
+
+Categories:
+- Birthday
+- Love
+- Just Because
+- Celebration
+- Minimal
+- Statement
+
+Each category:
+- Small editorial image
+- Short description
+- Button: “Explore”
+
+Style:
+- Large visual tiles
+- Slight overlap or asymmetrical grid to avoid boring layout
+
+
+4. Subscription Section
+
+Goal:
+Promote flower subscription as a lifestyle feature.
+
+Title:
+“A floral ritual, delivered regularly.”
+
+Description:
+“Choose a plan and receive fresh seasonal flowers at your door.”
+
+Plans:
+- 3 Months
+- 6 Months
+- 12 Months
+
+Delivery frequency:
+- Weekly
+- Biweekly
+- Monthly
+
+Style selection:
+- Romantic
+- Minimal
+- Wild
+- Seasonal
+- Designer’s Choice
+
+Each subscription card should show:
+- Plan name
+- Short description
+- Delivery frequency
+- Starting price
+- CTA: “Start Subscription”
+
+Important:
+Make this section feel premium, not like a boring pricing table.
+
+Visual idea:
+Use vertical cards with floral illustrations or soft bouquet photography.
+
+
+5. 3D Bouquet Builder Preview
+
+Goal:
+Introduce the main unique feature.
+
+Title:
+“Build it stem by stem.”
+
+Description:
+“Create your own bouquet in a 3D space. Place every flower exactly where you want it, rotate your bouquet, and watch the price update live.”
+
+CTA:
+“Open 3D Builder”
+
+Visual:
+- Preview of 3D bouquet interface
+- Left flower panel
+- Center bouquet model
+- Right price panel
+
+This should look like the most exciting part of the site.
+
+
+6. Atelier Story
+
+Title:
+“Inside the LALI Atelier”
+
+Description:
+A short emotional story about flowers as design, care, and personal expression.
+
+Layout:
+- Split image and text
+- Image of hands arranging flowers or floral studio table
+
+Tone:
+Soft and elegant, not too long.
+
+
+7. Footer
+
+Footer should include:
+- LALI logo
+- Navigation links
+- Instagram
+- Pinterest
+- Contact email
+- Small tagline:
+“Arrange your own story.”
+
+
+==============================================================
+PAGE 2: BOUQUETS
+==============================================================
+
+Purpose:
+A clean shopping page for ready-made bouquets.
+
+Features:
+- Grid of bouquets
+- Filter by mood
+- Filter by occasion
+- Sort by price
+- Quick view modal
+
+Filters:
+- Romantic
+- Minimal
+- Bold
+- Seasonal
+- Burgundy
+- Cream
+- Gift
+- Home Decor
+
+Bouquet card info:
+- Image
+- Name
+- Mood
+- Price
+- CTA: “View Details”
+
+Bouquet detail modal/page:
+- Large image
+- Description
+- Flowers included
+- Size options
+- Delivery date
+- Price
+- CTA: “Order Bouquet”
+
+Do not make this page cluttered.
+
+
+==============================================================
+PAGE 3: SUBSCRIPTION
+==============================================================
+
+Purpose:
+Let users buy flowers for 3, 6, or 12 months.
+
+Title:
+“Your floral ritual.”
+
+Subscription options:
+
+Plan 1:
+3 Months
+Short and sweet seasonal flowers.
+
+Plan 2:
+6 Months
+A longer floral rhythm for your space.
+
+Plan 3:
+12 Months
+A full year of seasonal arrangements.
+
+User choices:
+- Delivery frequency: weekly, biweekly, monthly
+- Bouquet style: romantic, minimal, wild, seasonal, designer’s choice
+- Size: small, medium, large
+- Delivery address
+- Gift note
+
+Show:
+- Estimated price
+- Total subscription price
+- What is included
+
+UX:
+Make it feel like building a lifestyle plan, not buying a random product.
+
+
+==============================================================
+PAGE 4: 3D BUILD YOUR BOUQUET
+==============================================================
+
+This is the most important page.
+
+Purpose:
+Let users create their own bouquet in a 3D interactive space.
+
+Page title:
+“Build Your Bouquet”
+
+Subtitle:
+“Place every stem exactly where you want it.”
+
+Layout:
+Three-column layout.
+
+LEFT PANEL:
+Flower Library
+
+Include flower options such as:
+- Rose
+- Tulip
+- Peony
+- Lily
+- Orchid
+- Ranunculus
+- Baby’s Breath
+- Eucalyptus
+- Hydrangea
+- Anemone
+
+Each flower item should show:
+- Small image or 3D thumbnail
+- Flower name
+- Color options
+- Price per stem
+- Drag handle or “Add” button
+
+CENTER:
+3D Bouquet Canvas
+
+Requirements:
+- Use Three.js or WebGL
+- Bouquet must be visible in 3D
+- Client can rotate the entire bouquet 360 degrees
+- Client can zoom in and out
+- Client can pan slightly
+- Client can drag flowers into the bouquet
+- Each flower should be a separate 3D object
+- User can place each flower anywhere they want in 3D space
+- User can reposition flowers freely
+- User can rotate individual flowers
+- User can remove selected flower
+- User can reset bouquet
+- User can preview bouquet from front, side, and top
+- No fixed snapping only; allow free placement
+- Optional soft snapping can be available, but free movement is required
+
+Controls:
+- Orbit controls for rotating bouquet
+- Drag controls for moving flowers
+- Transform controls for selected flowers
+- Buttons:
+  - Rotate bouquet
+  - Reset view
+  - Top view
+  - Front view
+  - Remove selected
+  - Clear all
+
+Visual style of 3D scene:
+- Cream background
+- Soft studio lighting
+- Subtle shadow under bouquet
+- Burgundy interface accents
+- Bouquet should feel realistic and elegant
+
+RIGHT PANEL:
+Bouquet Summary
+
+Show:
+- Selected flowers list
+- Quantity of each flower
+- Individual price
+- Total price
+- Estimated size
+- Button: “Order Custom Bouquet”
+- Button: “Save Design”
+
+Live pricing:
+- Every added flower updates the total price
+- Every removed flower updates the total price
+- Quantity changes update total price
+
+Example flower prices:
+- Rose: $5
+- Tulip: $4
+- Peony: $8
+- Lily: $7
+- Orchid: $10
+- Ranunculus: $6
+- Baby’s Breath: $3
+- Eucalyptus: $4
+- Hydrangea: $9
+- Anemone: $6
+
+Important:
+The 3D bouquet builder is the main wow feature.
+It must not be a simple form.
+It must feel interactive, visual, and fun.
+
+
+==============================================================
+3D BUILDER TECHNICAL REQUIREMENTS
+==============================================================
+
+Use:
+- React
+- Three.js
+- @react-three/fiber
+- @react-three/drei
+
+Important components:
+- Canvas
+- OrbitControls
+- TransformControls
+- DragControls or custom drag logic
+- GLTFLoader if using 3D models
+- State management for selected flowers and price total
+
+Functionality:
+- Add flower to scene
+- Select flower
+- Move selected flower
+- Rotate selected flower
+- Delete selected flower
+- Rotate entire bouquet 360 degrees
+- Zoom in/out
+- Update price dynamically
+
+Data structure example:
+Each flower object should include:
+- id
+- name
+- price
+- color
+- model
+- position
+- rotation
+- scale
+
+If real 3D flower models are not available:
+Use elegant placeholder 3D shapes temporarily, but structure the code so models can be replaced later.
+
+Placeholder 3D idea:
+- Stem: thin green cylinder
+- Flower head: small layered petal-like shapes
+- Leaves: small flat shapes
+- Bouquet wrap: cream cone or ribbon base
+
+The 3D bouquet must still be interactive even with placeholders.
+
+
+==============================================================
+INTERACTIVE COMPONENTS
+==============================================================
+
+Required UI components:
+- Navbar
+- Product cards
+- Subscription cards
+- Modal / Dialog
+- Tabs
+- Accordion for bouquet details
+- 3D canvas
+- Drag-and-drop interface
+- Price summary panel
+- Toast notification after saving bouquet
+
+Animations:
+- Smooth fade-in sections
+- Soft hover scale
+- Smooth page transitions
+- Bouquet preview floating animation
+- Selected flower highlight in 3D
+- Button hover turns burgundy
+
+
+==============================================================
+IMAGERY / PLACEHOLDERS
+==============================================================
+
+Use elegant placeholder images first.
+
+Image direction:
+- Burgundy flowers
+- Cream background
+- Soft natural lighting
+- Editorial floral photography
+- Close-up flower textures
+- Hands arranging bouquet
+- Premium floral studio
+
+Avoid:
+- bright childish flower images
+- random colorful messy bouquets
+- stock-photo feeling
+
+Placeholder examples:
+- https://placehold.co/800x1000/F7F3EF/5A0F1C?text=LALI+Bouquet
+- https://placehold.co/600x800/5A0F1C/FFF8F2?text=Burgundy+Muse
+- https://placehold.co/600x800/E8D8D2/5A0F1C?text=Signature+Bouquet
+- https://placehold.co/1000x700/F7F3EF/5A0F1C?text=3D+Bouquet+Builder
+
+
+==============================================================
+COPYWRITING
+==============================================================
+
+Use elegant short copy.
+
+Hero:
+“Arrange your own story.”
+“Curated bouquets, floral subscriptions, and a 3D bouquet builder made for personal moments.”
+
+Bouquets:
+“Signature arrangements for every mood.”
+
+Subscription:
+“A floral ritual, delivered regularly.”
+
+3D Builder:
+“Build it stem by stem.”
+“Place every flower exactly where you want it.”
+
+CTA examples:
+- Build Your Bouquet
+- Shop Bouquets
+- Start Subscription
+- Order Custom Bouquet
+- Save Design
+- Explore Occasions
+
+
+==============================================================
+DESIGN DETAILS THAT MAKE IT NOT BORING
+==============================================================
+
+Add unusual visual touches:
+- Floating flower elements around hero
+- 3D bouquet preview on homepage
+- Asymmetrical editorial grid
+- Burgundy thin line dividers
+- Large serif numbers for subscription plans
+- Soft animated flower cursor or hover trail
+- Smooth scroll interactions
+- Layered cards
+- Slight overlapping images
+- Interactive bouquet preview card
+
+But keep everything elegant.
+Do not make it messy.
+
+
+==============================================================
+ACCESSIBILITY
+==============================================================
+
+Make sure:
+- Text contrast is readable
+- Buttons are clear
+- Forms have labels
+- Keyboard navigation works
+- 3D builder has basic instructions
+- Price updates are visible
+- Important actions are not hidden
+
+
+==============================================================
+FINAL GOAL
+==============================================================
+
+Create a complete premium website for LALI.
+
+The final website should feel:
+- beautiful
+- modern
+- easy to use
+- visually memorable
+- premium
+- interactive
+- not boring
+- not like a generic flower shop
+
+The most important feature is the 3D bouquet builder where the user can freely place each flower, rotate the whole bouquet 360 degrees, and see the price update live.
+
+Build the website with clean structure, reusable components, responsive design, and a polished visual identity.
